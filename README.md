@@ -1,8 +1,8 @@
- 👋 Hi, I’m Eric Noonan
- 👀 I’m interested in front-end web development, web design, and Rocket League
- 🌱 I’m currently learning more about JavaScript
- 💞️ I’m looking to collaborate on web projects, specifically the design aspect, as HTML and CSS are my forté!
- 📫 How to reach me ...
+ 👋 Hi, I’m Eric Noonan<br>
+ 👀 I’m interested in front-end web development, web design, and Rocket League<br>
+ 🌱 I’m currently learning more about JavaScript<br>
+ 💞️ I’m looking to collaborate on web projects, specifically the design aspect, as HTML and CSS are my forté!<br>
+ 📫 How to reach me ...<br>
   * LinkedIn: https://www.linkedin.com/in/eric-noonan-48326b201/<br>
   * Website: https://www.eric-noonan.net
   * E-mail: <a href="email:ericnoonan00@gmail.com">ericnoonan00@gmail.com</a>
