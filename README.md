@@ -1,6 +1,6 @@
  👋 Hi, I’m Eric Noonan<br>
- 👀 I’m interested in front-end web development, web design, and Rocket League<br>
- 🌱 I’m currently learning more about JavaScript<br>
+ 👀 I’m interested in front-end web development and web design<br>
+ 🌱 I’m currently learning more about JavaScript frameworks<br>
  💞️ I’m looking to collaborate on web projects, specifically the design aspect, as HTML and CSS are my forté!<br>
  📫 How to reach me ...<br>
   * LinkedIn: https://www.linkedin.com/in/eric-noonan-48326b201/<br>
