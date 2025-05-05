@@ -3,7 +3,7 @@
  🌱 I’m currently learning more about JavaScript frameworks<br>
  💞️ I’m looking to collaborate on web projects, specifically the design aspect, as HTML and CSS are my forté!<br>
  📫 How to reach me ...<br>
-  * LinkedIn: <a href="https://www.linkedin.com/in/eric-noonan/">https://www.linkedin.com/in/eric-noonan-48326b201/</a>
+  * LinkedIn: <a href="https://www.linkedin.com/in/eric-noonan/">https://www.linkedin.com/in/eric-noonan/</a>
   * E-mail: <a href="email:ericnoonan00@gmail.com">ericnoonan00@gmail.com</a>
   * Phone: <a href="tel:+12169569898">+1(216)956-9898</a>
 <!---
